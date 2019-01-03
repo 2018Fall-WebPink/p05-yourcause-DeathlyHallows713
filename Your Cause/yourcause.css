@@ -1,0 +1,45 @@
+/*
+* Name
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+*{ margin: 0; padding: 0;
+
+}
+
+/* Body attributes here */
+
+
+/* body */
+body {background-color: antiquewhite; font-family: sans-serif; color: navy; margin: 20px 20px 20px 20px; }
+
+h1 {text-align: center; border-bottom: 2px solid cadetblue; margin: 15px 5px 10px 5px; }
+
+h2 {margin: 8px 20px 4px 280px; }
+
+h3 {margin: 8px 20px 4px 280px; }
+
+p {margin: 8px 20px 30px 280px; }
+
+ul {margin-left: 290px; margin-bottom: 10px; }
+
+main {margin-bottom: 50px; }
+
+
+/* Images */
+img { margin: 1px 20px 5px 20px; border: 2px solid cadetblue; }
+
+#splash {float: left;}
+
+#bucket {height: 300px; width: 200px; float: left; }
+
+#drink {height: 250px; width: 300px; }
+
+#glass {height: 250px; width: 200px; }
+
+#outside {height: 250px; width: 300px; }
+
+#bubbles {height: 250px; width: 300px; float: left; margin-right: 30px; }
